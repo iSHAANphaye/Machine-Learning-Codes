@@ -1,0 +1,4 @@
+num = [int]
+x = int(input())
+a=float(x)
+print(a%10)

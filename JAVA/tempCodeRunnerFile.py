@@ -1,0 +1,2 @@
+
+Friend_name.close()
